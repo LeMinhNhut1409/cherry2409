@@ -1,0 +1,39 @@
+
+body{
+    background-color: linen;
+}
+header{
+    text-align: center;
+    background-color:rgb(126, 247, 119);
+    color:red;;
+    text-transform:uppercase;
+    padding: 10px;
+}
+section.items{
+    background-color: lightyellow;
+    margin-top: 10px;
+}
+div.item {
+    overflow: auto;
+    padding: 10px;
+    border-bottom: 1px solid blue;
+}
+div.item img{
+    width: 350px;
+    height: 350px;
+    float:left;
+    padding: 5px;
+}
+footer
+{
+    background-color: rgba(0, 0 , 257, 0.7);
+    color: white;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.sub > a{
+    color:white;
+}
